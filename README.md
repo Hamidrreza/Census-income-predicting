@@ -1,5 +1,5 @@
 # Census-Income-Predicting
-## Census Income Dataset Predicting
+##Census Income Dataset Predicting
 US Census Income dataset, which gathered from 32561 people in US.
 The target (output) is income level of each person which is upper or lower than $50K based on 14 features.
 Features includes:
@@ -21,7 +21,7 @@ Features includes:
 	<li>income</li>
 </ul>
 The problem here is a classification problem and we use **logistic regression & random forest** for predicting income.
-### Libraries used:
+###Libraries used:
 <ul>
 	<li>Numpy</li>
 	<li>Pandas</li>
