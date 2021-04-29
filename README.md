@@ -20,7 +20,7 @@ Features includes:
 	<li>native_country</li>
 	<li>income</li>
 </ul>
-The problem here is a classification problem and we use ***logistic regression & random forest*** for predicting income.
+The problem here is a classification problem and we use <b>logistic regression & random forest</b> for predicting income.
 
 ### Libraries used:
 <ul>
